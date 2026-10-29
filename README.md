@@ -49,9 +49,11 @@ I value deliberate engineering: architecture that serves the business, security 
 
 **[axivor.com.tr](https://axivor.com.tr) · Proprietary corporate website**
 
-**Contribution:** Website development and customization, corporate content implementation, and technical troubleshooting for AXIVOR’s digital presence.
+**Role: Sole Developer · End-to-End Software Engineering**
 
-The work connects AXIVOR’s strategic management and cross-border corporate services with a clear, professional web experience. The development scope includes site customization, content presentation, and resolving application routing and deployment configuration issues during local development.
+I independently designed and developed the AXIVOR corporate website in its entirety, taking responsibility for the complete implementation and its technical delivery.
+
+The work connects AXIVOR’s strategic management and cross-border corporate services with a clear, professional web experience. My contribution spans the complete website codebase and implementation, alongside corporate content presentation and application routing and deployment configuration troubleshooting.
 
 This reference describes the engagement without publishing application files. File-level code changes, exact dependencies, and backend implementation details are intentionally omitted pending a source review. The corporate website reference is distinct from the broader platform architecture vision below.
 
