@@ -45,17 +45,36 @@ I value deliberate engineering: architecture that serves the business, security 
 
 ## Selected Work & References
 
-### AXIVOR Corporate Website
+### AXIVOR — Corporate Website Engineering
 
-**[axivor.com.tr](https://axivor.com.tr) · Proprietary corporate website**
+**[axivor.com.tr](https://axivor.com.tr) · Proprietary Website**  
+**Role: Sole Project Developer · End-to-End Implementation**
 
-**Role: Sole Developer · End-to-End Software Engineering**
+I independently delivered the AXIVOR corporate website, integrating and extending the Laravel/Botble CMS foundation to support its corporate identity, content, and digital presence. My responsibility covers the project implementation and delivery; the underlying frameworks, CMS, and third-party dependencies retain their respective authorship.
 
-I independently designed and developed the AXIVOR corporate website in its entirety, taking responsibility for the complete implementation and its technical delivery.
+#### Technology & Architecture
 
-The work connects AXIVOR’s strategic management and cross-border corporate services with a clear, professional web experience. My contribution spans the complete website codebase and implementation, alongside corporate content presentation and application routing and deployment configuration troubleshooting.
+| Layer | Implementation |
+| :--- | :--- |
+| **Backend** | PHP 8.2/8.3 target, Laravel 12; reviewed dependency version 12.43.1 |
+| **CMS** | Botble CMS with an Apexa-based theme layer, modular packages and plugins |
+| **Database** | Configured MySQL database, Eloquent ORM, Laravel query builder, migrations |
+| **Frontend** | Blade templates, Bootstrap 5.3.7, JavaScript and jQuery |
+| **Build tooling** | Laravel Mix/Webpack, Sass, PostCSS, Axios; Vue 3 tooling present |
+| **Design approach** | MVC, separation of concerns, service providers, grouped routes and middleware |
+| **Extensibility** | Repositories, events, listeners, jobs, reusable widgets and shortcodes |
 
-This reference describes the engagement without publishing application files. File-level code changes, exact dependencies, and backend implementation details are intentionally omitted pending a source review. The corporate website reference is distinct from the broader platform architecture vision below.
+#### Engineering Scope
+
+- Corporate page implementation, reusable layouts, content blocks, and responsive presentation.
+- CMS integration for content, menus, SEO, sitemaps, media, and analytics capabilities.
+- Integration of framework/CMS controls for session authentication, password reset, administrative permissions, CSRF protection, password hashing, and request validation.
+- Asset compilation and minification, caching paths, lazy loading, image thumbnails, and bounded content queries.
+- Environment-based configuration and application routing, with repository support for Sail/Docker and Apache/IIS rewriting.
+
+The repository review establishes implementation and configuration support. It does not establish which optional plugins are active in production, the live PHP/database version, production security settings, API usage, test coverage, or measured performance.
+
+**Public reference only:** No production source code, database schemas, credentials, client data, or proprietary business logic are published here.
 
 ## Featured Case Study
 
