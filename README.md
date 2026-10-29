@@ -1,9 +1,9 @@
 <div align="center">
 
 # Tan Yorulmaz
-### Software Engineering · Systems Architecture · Technical Leadership
+### Executive Leadership · Software Engineering · Systems Architecture
 
-Designing secure, scalable systems for international business.
+Connecting business strategy with secure, scalable digital execution.
 
 ![PHP](https://img.shields.io/badge/PHP_8.x-18181B?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=white)
@@ -11,7 +11,7 @@ Designing secure, scalable systems for international business.
 ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=white)
 
-[Email](mailto:yorulmaztan@icloud.com) · [GitHub](https://github.com/YorulmazTan)
+[LinkedIn](https://www.linkedin.com/in/tanyorulmaz/) · [Email](mailto:yorulmaztan@icloud.com) · [GitHub](https://github.com/YorulmazTan)
 
 </div>
 
@@ -19,11 +19,18 @@ Designing secure, scalable systems for international business.
 
 ## Executive Overview
 
-I am a software engineer and entrepreneur focused on enterprise architecture, scalable web platforms, and strategic software solutions for international businesses.
+I am a senior executive, software engineer, and entrepreneur working at the intersection of business strategy, technology leadership, and enterprise systems. My focus is turning complex business requirements into clear priorities, maintainable platforms, and sustainable operational value.
 
 My work connects business requirements with maintainable application architecture, efficient data systems, and secure infrastructure. I approach cloud infrastructure planning and platform delivery through clear system boundaries, operational reliability, and long-term maintainability.
 
 I value deliberate engineering: architecture that serves the business, security integrated into delivery, and interfaces that make complex workflows easier to manage.
+
+## Executive & Technology Leadership
+
+- **Business strategy:** Aligning digital initiatives with commercial priorities and long-term organizational direction.
+- **Executive oversight:** Connecting strategic decisions with implementation priorities and operational requirements.
+- **Technology direction:** Translating business needs into architecture, engineering standards, and delivery plans.
+- **Cross-border perspective:** Shaping digital experiences for international corporate services and diverse audiences.
 
 ## Core Competencies
 
@@ -35,6 +42,18 @@ I value deliberate engineering: architecture that serves the business, security 
 | **Infrastructure & DevOps** | cPanel/WHM, LiteSpeed, Git, CI/CD workflows, cloud infrastructure planning |
 | **Security & Governance** | SSL/TLS, access control, secure configuration, enterprise security protocols |
 | **Technical Leadership** | Architecture planning, requirements translation, engineering standards, delivery coordination |
+
+## Selected Work & References
+
+### AXIVOR Corporate Website
+
+**[axivor.com.tr](https://axivor.com.tr) · Proprietary corporate website**
+
+**Contribution:** Website development and customization, corporate content implementation, and technical troubleshooting for AXIVOR’s digital presence.
+
+The work connects AXIVOR’s strategic management and cross-border corporate services with a clear, professional web experience. The development scope includes site customization, content presentation, and resolving application routing and deployment configuration issues during local development.
+
+This reference describes the engagement without publishing application files. File-level code changes, exact dependencies, and backend implementation details are intentionally omitted pending a source review. The corporate website reference is distinct from the broader platform architecture vision below.
 
 ## Featured Case Study
 
@@ -98,7 +117,7 @@ For architecture discussions, engineering collaboration, and business inquiries:
 
 - **Email:** [yorulmaztan@icloud.com](mailto:yorulmaztan@icloud.com)
 - **GitHub:** [github.com/YorulmazTan](https://github.com/YorulmazTan)
-<!-- Add the verified personal LinkedIn profile URL before publishing a LinkedIn link. -->
+- **LinkedIn:** [linkedin.com/in/tanyorulmaz](https://www.linkedin.com/in/tanyorulmaz/)
 
 ---
 
